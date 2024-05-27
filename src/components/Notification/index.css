@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.displ {
+  display: flex;
+  justify-content: space-between;
+}
+.form-container {
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 50px;
+}

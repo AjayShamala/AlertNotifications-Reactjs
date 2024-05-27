@@ -1,0 +1,94 @@
+.bg-containers {
+  background-color: #ffffffff;
+  background-size: cover;
+ 
+  padding-left: 400px;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  padding-top: 30px;
+  margin-left: 80px;
+}
+.containers {
+  display: flex;
+  justify-content: space-between;
+
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5e5e5;
+
+  margin: 20px;
+  width: 40%;
+}
+.image-1 {
+  margin-top: 18px;
+  color: #2dca73;
+  height: 3vh;
+    margin-left: 20px;
+
+}
+.image-2 {
+  margin-top: 18px;
+  color: #ff0b37;
+  height: 3vh;
+    margin-left: 20px;
+
+}
+.image-3 {
+  margin-top: 18px;
+  color: #ffb800;
+  height: 3vh;
+  margin-left: 20px;
+}
+.image-4 {
+  margin-top: 18px;
+  color: #0f81e0;
+  height: 3vh;
+  margin-left: 20px;
+}
+.heads {
+  color: #2dca73;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.error {
+  color: #ff0b37;
+margin-left: 30px;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.heas {
+  color: #ffb800;
+  margin-left: 30px;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.info {
+  color: #0f81e0;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.paras {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+}
+.parass {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+  margin-left: 30px;
+}
+.parasss {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+  margin-left: 30px;
+}
+.parassss {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+}
